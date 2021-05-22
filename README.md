@@ -1,3 +1,2 @@
-20195298    JunYongPark
+JunYongPark:20185298
 Kookmin Univ. SW dept.
-
